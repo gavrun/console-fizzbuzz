@@ -1,0 +1,15 @@
+C:\Users\ag\source\repos\console-fizzbuzz\bin\Debug\net7.0\console-fizzbuzz.exe
+C:\Users\ag\source\repos\console-fizzbuzz\bin\Debug\net7.0\console-fizzbuzz.deps.json
+C:\Users\ag\source\repos\console-fizzbuzz\bin\Debug\net7.0\console-fizzbuzz.runtimeconfig.json
+C:\Users\ag\source\repos\console-fizzbuzz\bin\Debug\net7.0\console-fizzbuzz.dll
+C:\Users\ag\source\repos\console-fizzbuzz\bin\Debug\net7.0\console-fizzbuzz.pdb
+C:\Users\ag\source\repos\console-fizzbuzz\obj\Debug\net7.0\console-fizzbuzz.csproj.AssemblyReference.cache
+C:\Users\ag\source\repos\console-fizzbuzz\obj\Debug\net7.0\console-fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ag\source\repos\console-fizzbuzz\obj\Debug\net7.0\console-fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\ag\source\repos\console-fizzbuzz\obj\Debug\net7.0\console-fizzbuzz.AssemblyInfo.cs
+C:\Users\ag\source\repos\console-fizzbuzz\obj\Debug\net7.0\console-fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\ag\source\repos\console-fizzbuzz\obj\Debug\net7.0\console-fizzbuzz.dll
+C:\Users\ag\source\repos\console-fizzbuzz\obj\Debug\net7.0\refint\console-fizzbuzz.dll
+C:\Users\ag\source\repos\console-fizzbuzz\obj\Debug\net7.0\console-fizzbuzz.pdb
+C:\Users\ag\source\repos\console-fizzbuzz\obj\Debug\net7.0\console-fizzbuzz.genruntimeconfig.cache
+C:\Users\ag\source\repos\console-fizzbuzz\obj\Debug\net7.0\ref\console-fizzbuzz.dll
