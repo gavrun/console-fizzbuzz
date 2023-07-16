@@ -16,7 +16,7 @@ class Program
         Console.WriteLine();
         Console.WriteLine("Stepping up");
         var count2 = 1;
-        while (count2 <= 20)
+        while (count2 <= 15)
         {
             if (count2 == 1)
                 Console.WriteLine(count2 + "st step");
@@ -30,7 +30,13 @@ class Program
         }
 
         Console.WriteLine();
-        Console.WriteLine("Counting FizzBuzz 1");
+        Console.WriteLine("FizzBuzz should work this way\n1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, \n" +
+            "11, Fizz, 13, 14, Fizz Buzz, 16, 17, Fizz, 19, Buzz, \n" +
+            "Fizz, 22, 23, Fizz, Buzz, 26, Fizz, 28, 29, Fizz Buzz, \n" +
+            "31, 32, Fizz, 34, Buzz, Fizz, ...\n");
+
+        Console.WriteLine();
+        Console.WriteLine("Counting FizzBuzz way 1");
         int number3 = 1;
         while (number3 <= 100)
         {
@@ -88,7 +94,7 @@ class Program
         var number6 = 100;
         for (int i = 1; i <= number6; i++)
         {
-            if (i % 15 == 0)
+            if (i % 5 == 0 && i % 3 == 0)
                 Console.Write("FizzBuzz" + " ");
             else if (i % 3 == 0)
                 Console.Write("Fizz" + " ");
@@ -99,8 +105,38 @@ class Program
         }
 
         Console.WriteLine();
+        Console.WriteLine();
         Console.WriteLine("Counting FizzBuzz again 5");
+        string s7 = "";
+        int c73 = 0;
+        int c75 = 0;
+        for (int i = 1; i <= 100; i++)
+        {
+            c73++;
+            c75++;
+            if (c73 == 3 && c75 == 5)
+            {
+                s7 += "fizz";
+                c73 = 0;
+            }
+            if (c73 == 3)
+            {
+                s7 += "fizz";
+                c73 = 0;
+            }
+            if (c75 == 5)
+            {
+                s7 += "buzz";
+                c75 = 0;
+            }
+            if (s7.Length == 0)
+                Console.WriteLine(i);
+            else
+                Console.WriteLine(s7);
+            s7 = "";
+        }
 
+        Console.WriteLine();
 
     }
 }
